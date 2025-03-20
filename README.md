@@ -5,6 +5,7 @@ This exercise uses the following dataset sourced from Devzohaib on Kaggle, https
 This dataset provides "Sales" information based on the respective "TV" marketing budget.
 
 The specific coding challenge question from Coderbyte utilized a different dataset. The specific ask was: 
+
 *In the Python file, write a script that will perfom a linear regression on the data in data.txt and then calculate the coefficient of determination of the prediction.*
 
 
